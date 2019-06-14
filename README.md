@@ -1,2 +1,2 @@
 # hospital-readmit
-Springboard Project for EDA and hypothesis testing in Python.
+Springboard project for EDA and hypothesis testing in Python.
